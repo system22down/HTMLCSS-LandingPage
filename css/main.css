@@ -310,7 +310,7 @@ footer {
     background-color: black;
 }
 
-.footer:after{
+footer:after{
     content:"";
     background-color: #a0a0a0;
     width: 75%;
@@ -357,16 +357,16 @@ footer a:hover{
 }
 
 .twitter{
-    background-image: url(../img/twitter.svg);
+    background-image: url('../img/twitter.svg');
 }
 .facebook{
-    background-image: url(../img/facebook.svg);
+    background-image: url('../img/facebook.svg');
 }
 .instagram{
-    background-image: url(../img/instagram.svg);
+    background-image: url('../img/instagram.svg');
 }
 .pinterest{
-    background-image: url(../img/pinterest.svg);
+    background-image: url('../img/pinterest.svg');
 }
 
 .newsletter .link-header{
